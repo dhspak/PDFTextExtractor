@@ -15,4 +15,4 @@ df = pd.DataFrame(np.random.randn(6, 4), columns=list('ABCD'))
 
 #pdb.set_trace()
 
-print("Khalid is learning data science")
+print("Khalid is NOT learning data science")
